@@ -21,8 +21,8 @@ A custom sensor platform for [Home Assistant](https://www.home-assistant.io/) th
 ```yaml
 sensor:
   - platform: webscrape_sensor
-    name: Strompreis Sensor
-    url: https://example.com/preise.html
-    start_string: '<span class="preis">'
+    name: Pegelstand Donau
+    url: https://example.com/Wasserstand_Donau.html
+    start_string: '<span class="Pegelstand">'
     end_string: '</span>'
-    unit_of_measurement: "€/kWh"
+    unit_of_measurement: "m"

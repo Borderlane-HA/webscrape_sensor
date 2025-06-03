@@ -1,9 +1,0 @@
-{
-  "domain": "webscrape_sensor",
-  "name": "Web Scrape Sensor",
-  "version": "1.0.0",
-  "documentation": "https://github.com/Borderlane-HA/webscrape_sensor",
-  "dependencies": [],
-  "codeowners": ["@Borderlane-HA"],
-  "requirements": ["aiohttp"]
-}

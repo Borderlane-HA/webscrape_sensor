@@ -12,7 +12,7 @@ A custom sensor platform for [Home Assistant](https://www.home-assistant.io/) th
 ## 📦 Installation via HACS
 
 1. Go to **HACS → Integrations → Custom repositories**
-2. Add this repository URL: `https://github.com/yourusername/webscrape_sensor`
+2. Add this repository URL: `https://github.com/Borderlane-HA/webscrape_sensor`
 3. Select **Integration**
 4. Click **Add** and install the `Web Scrape Sensor`
 

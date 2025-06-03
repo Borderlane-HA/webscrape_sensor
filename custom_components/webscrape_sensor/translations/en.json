@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Web Scrape Sensor",
+        "description": "Extract a numeric value from a web page.",
+        "data": {
+          "name": "Sensor Name",
+          "url": "Target URL",
+          "start_string": "Start String",
+          "end_string": "End String",
+          "unit_of_measurement": "Unit (e.g. €/kWh)"
+        }
+      }
+    }
+  }
+}

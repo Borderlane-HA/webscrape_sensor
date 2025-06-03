@@ -7,4 +7,6 @@
   "dependencies": [],
   "codeowners": ["@Borderlane-HA"],
   "config_flow": true
+  "iot_class": "local_polling",
+  "icon": "mdi:alpha-h-circle"
 }

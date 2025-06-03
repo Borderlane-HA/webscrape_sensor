@@ -1,0 +1,7 @@
+{
+  "name": "Borderlane-HA Web Scrape Sensor",
+  "content_in_root": false,
+  "domain": "webscrape_sensor",
+  "iot_class": "cloud_polling",
+  "requirements": ["aiohttp"]
+}

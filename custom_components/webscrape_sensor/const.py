@@ -1,0 +1,1 @@
+DOMAIN = "webscrape_sensor"
